@@ -1,58 +1,31 @@
-# 🌸 **Happy Gudi Padwa!** – Welcoming New Beginnings with Innovation 🚀
-![GitHub Repo Size](https://img.shields.io/github/repo-size/example/repo?color=blue&label=Repo%20Size)  
-![GitHub Issues](https://img.shields.io/github/issues/example/repo?color=red)  
-![GitHub Stars](https://img.shields.io/github/stars/example/repo?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/example/repo?style=social)  
-![Contributors](https://img.shields.io/github/contributors/example/repo)  
-![License](https://img.shields.io/github/license/example/repo)  
+# 🤖 RAVI – Your Smart Voice Assistant 🗣️
+![GitHub Repo Size](https://img.shields.io/github/repo-size/example/ravi-assistant?color=blue&label=Repo%20Size)  
+![GitHub Issues](https://img.shields.io/github/issues/example/ravi-assistant?color=red)  
+![GitHub Stars](https://img.shields.io/github/stars/example/ravi-assistant?style=social)  
+![GitHub Forks](https://img.shields.io/github/forks/example/ravi-assistant?style=social)  
+![Contributors](https://img.shields.io/github/contributors/example/ravi-assistant)  
+![License](https://img.shields.io/github/license/example/ravi-assistant)  
 
 <p align="center">
-  <img src="https://github.com/example/repo/assets/gudi_padwa_banner.png" width="90%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Voice_Icon.png" width="100" height="100">
 </p>
 
 ---
 
-## 🏵️ **Gudi Padwa Special Thought**  
-"On this auspicious day of **Gudi Padwa**, let’s embrace **new beginnings**, **innovation**, and **technological advancements**. Just as Gudi Padwa marks a fresh start, our project **aims to revolutionize debugging and learning** for developers."
+## 🎙️ **RAVI – AI-Powered Voice Assistant**  
+🔹 RAVI is an **offline AI-powered voice assistant** designed to help users with **task management, reminders, and voice-based interactions**. It operates entirely **without an internet connection** and provides a seamless, Jarvis-like experience. 🚀
 
 ---
 
-## 📌 **Overview**  
-🔹 **Project Name** is an AI-powered debugging and learning assistant that helps developers fix coding issues, learn programming concepts, and manage tasks efficiently. It provides real-time solutions using **Machine Learning, GitHub OAuth authentication, and voice-powered debugging**.  
-
-**🚀 Why This Project?**  
-✔️ Developers spend **30% of their time debugging**  
-✔️ No AI-powered **personalized learning paths**  
-✔️ Need for **voice-driven debugging assistance**  
-
----
-
-## 🎯 **Problem Statement**  
-Developers struggle with **debugging and learning efficiently**. Traditional debugging tools do not provide **AI-driven, personalized insights**. This project solves that by integrating:  
-
-✅ **AI-Powered Debugging** – Detects and fixes issues automatically  
-✅ **Voice-Powered Debugging** – Explain bugs using voice commands  
-✅ **Personalized Learning Paths** – AI recommends learning content based on coding habits  
-
----
-
-## ✨ **Features**  
-✔️ **AI Debugging Assistant** – Fix errors in real-time  
-✔️ **Voice Commands** – Speak coding issues for solutions  
-✔️ **GitHub OAuth Login** – Secure authentication  
-✔️ **Task & Reminder System** – Manage coding tasks efficiently  
-✔️ **Code Snippet Manager** – Save & reuse frequently used code  
-✔️ **Gudi Padwa Special Feature** – **A festive theme mode** 🌟
-
-<details>
-  <summary>🔍 Click to Expand More Features</summary>
-
-✔️ **Dark Mode & Custom Themes**  
-✔️ **Collaborative Debugging** – Share bugs with teammates  
-✔️ **Smart Code Suggestions** – AI-based autocomplete  
-✔️ **Integration with Stack Overflow**  
-
-</details>
+## 🌟 **Features**  
+✔️ **Voice-Based Interactions** – Add, update, and retrieve reminders via voice  
+✔️ **Offline Functionality** – Works without an internet connection  
+✔️ **Personalized AI Training** – Learns from user interactions  
+✔️ **Reminder System** – Differentiate between **Important & Normal Reminders**  
+✔️ **Fact Storage** – Remembers user-defined facts (e.g., "Who am I?" → "You are Aditya")  
+✔️ **Secure Start** – Requires a voice password to activate  
+✔️ **Smart Response Handling** – Rejects unknown commands gracefully  
+✔️ **Text-to-Speech (TTS)** – Speaks responses aloud 🔊  
 
 ---
 
@@ -60,11 +33,21 @@ Developers struggle with **debugging and learning efficiently**. Traditional deb
 
 | 🛠 **Technology** | 📌 **Usage** |
 |---------------|-----------|
-| 🧩 **Jetpack Compose** | Android UI Development |
-| 🏗 **Python (Flask)** | Backend API |
-| ⚡ **Firebase** | Authentication & Storage |
-| 🤖 **Ultralytics YOLOv8** | Machine Learning Debugging |
-| 🗄️ **SQLite3** | Local Database |
+| 🎤 **Google ML Kit** | Voice recognition |
+| 🎛 **Jetpack Compose** | Android UI Development |
+| ⚙️ **WorkManager** | Background task scheduling |
+| 📡 **Retrofit** | API communication |
+| 🔊 **Text-to-Speech API** | Voice output |
+| 🗄 **Room Database** | Local storage |
+| 📌 **Python (Flask Backend)** | API and AI training |
+
+---
+
+## 📸 **Screenshots**  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Google_Assistant_logo.png" width="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Google_Home_Mini.png" width="200">
+</p>
 
 ---
 
@@ -77,8 +60,8 @@ Ensure you have the following installed:
 
 ### **🔧 Installation**  
 ```bash
-git clone https://github.com/example/repo.git
-cd repo
+git clone https://github.com/example/ravi-assistant.git
+cd ravi-assistant
 pip install -r requirements.txt
 
 ▶️ Running the App
@@ -88,21 +71,9 @@ python main.py
 
 ---
 
-📸 Screenshots
-
-<p align="center">
-  <img src="https://github.com/example/repo/assets/screenshot1.png" width="45%">
-  <img src="https://github.com/example/repo/assets/screenshot2.png" width="45%">
-</p>
----
-
 👨‍💻 Contributors
 
-🚀 This project is developed by Team Name:
-
-👤 Aditya – Android & AI Integration
-👤 Team Member 2 – Backend Development
-
+🚀 Developed by Aditya & Team
 💡 Want to contribute? Check out the Contribution Guidelines.
 
 
@@ -124,7 +95,7 @@ python main.py
 
 ---
 
-🌼 Made with ❤️ to Celebrate Gudi Padwa & Innovation 🚀
+🔊 Built with Passion for Smarter Voice Interactions! 🚀
 
 
 
